@@ -2,6 +2,7 @@
 
 <!--
 **yinzaihecode/yinzaihecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://user-images.githubusercontent.com/62298416/109456829-ff33be00-7a9c-11eb-8083-a90a59dbf4bd.png)
 
 Here are some ideas to get you started:
 
@@ -15,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image](https://user-images.githubusercontent.com/62298416/109456829-ff33be00-7a9c-11eb-8083-a90a59dbf4bd.png)
+
